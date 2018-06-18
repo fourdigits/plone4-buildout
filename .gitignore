@@ -1,0 +1,15 @@
+src/*
+src/
+omelette/
+bin/
+develop-eggs/
+parts/
+pickedversions.cfg
+var/
+.mr.developer.cfg
+.installed.cfg
+.codeintel
+.Python
+include/
+lib/
+venv/
